@@ -24,6 +24,7 @@ The bottom five schools based on the overall passing scores were all district sc
 #### Spending Ranges per School
 ![Budget_per_School_Spending]()
 ####  Scores by School Size
+![School_Size]()
 #### Scores by School Type
 ![Budget_per_School_Type]()
 
