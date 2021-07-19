@@ -9,9 +9,11 @@ The summary results for the 15 schools in the district were as follows:
 -	Average Math Score 78.9%
 -	Average Reading Score 81.9%
 -	Average Passing Overall 64.9%
+
 ![District_Summary_Results](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_THS_replaced_values_output.PNG)
+
 - Charter schools held the top 5 positions with Thomas Highschool as the top second school with an overall passing score of 90.6%.
-![Top_5](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Top_5.PNG)
+- ![Top_5](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Top_5.PNG)
 - The bottom five schools based on the overall passing scores were all district schools. 
 ![Bottom_5](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Bottom_5.PNG)
 - There was a negative correlation noted with student spending (increased spending, lower scores).
