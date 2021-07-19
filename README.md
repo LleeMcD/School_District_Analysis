@@ -9,6 +9,7 @@ The school board for Thomas High School (THS) notified the district that its gra
 -	Average Math Score 78.9%
 -	Average Reading Score 81.9%
 -	Average Passing Overall 64.9%
+-	
 ![District_Summary_Results](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_THS_replaced_values_output.PNG)
 - Charter schools held the top 5 positions with Thomas Highschool as the top second school with an overall passing score of 90.6%.
 ![Top_5](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Top_5.PNG)
