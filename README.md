@@ -19,12 +19,10 @@ TCharter schools held the top 5 positions with Thomas Highschool as top second s
 #### Bottom Five Schools
 The bottom five schools based on the overall passing scores were all district schools. 
 ![Bottom_5](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Bottom_5.PNG)
-#### Spending Ranges per Student
+#### Student Spending Ranges
 ![Spending_Ranges_per_Student](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Student_Spending_Ranges.png)
-#### Spending Ranges per School
-![Budget_per_School_Spending]()
 ####  Scores by School Size
-![School_Size]()
+![School_Size](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Schools_by_Size.png)
 #### Scores by School Type
 ![Budget_per_School_Type]()
 
