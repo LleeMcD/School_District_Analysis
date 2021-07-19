@@ -9,22 +9,16 @@ The summary results for the 15 schools in the district were as follows:
 -	Average Math Score 78.9%
 -	Average Reading Score 81.9%
 -	Average Passing Overall 64.9%
-#### District Summary Results
 ![District_Summary_Results](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_THS_replaced_values_output.PNG)
-#### Top Five Schools
-Charter schools held the top 5 positions with Thomas Highschool as the top second school with an overall passing score of 90.6%.
+- Charter schools held the top 5 positions with Thomas Highschool as the top second school with an overall passing score of 90.6%.
 ![Top_5](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Top_5.PNG)
-#### Bottom Five Schools
-The bottom five schools based on the overall passing scores were all district schools. 
+- The bottom five schools based on the overall passing scores were all district schools. 
 ![Bottom_5](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Bottom_5.PNG)
-#### Student Spending Ranges
-There was a negative correlation noted with student spending (increased spending, lower scores).
-![Spending_Ranges_per_Student]()
-####  Scores by School Size
-Smaller schools fared better the the larger ones.
+- There was a negative correlation noted with student spending (increased spending, lower scores).
+![Spending_Ranges_per_Student](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/Resources/PyCitySchools_Challenge_Student_Spending_Ranges.png)
+- Smaller schools fared better the the larger ones.
 ![School_Size](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Schools_by_Size.png)
-#### Scores by School Type
-Charter schools had better scores than district schools.
+- Charter schools had better scores than district schools.
 ![Budget_per_School_Type](https://github.com/LleeMcD/School_District_Analysis/blob/main/Resources/PyCitySchools_Challenge_Schools_by_Type.png)
 ## Summary
 The removal of Thomas High School's ninth grade standardized test scores for math and reading had little impact on the overall findings. The math and reading scores were respectively, 79.0% and 81.9% before they were replaced. The subsequent math and reading scores were respectively, 78.9% and 81.9%, which reflects a negative change of 0.1% for the math scores. Thomas High School remains in the top five schools based on the overall percentage passing, math and reading scores. Additional observations are listed below:
