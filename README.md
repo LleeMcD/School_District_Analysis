@@ -28,7 +28,7 @@ The removal of Thomas High School's ninth grade standardized test scores for mat
 - Students in smaller charter schools performed much better than students in the larger district schools. It is recommended that more data be collected to determine why these differences exit:
   - Demographics
   - Family circumstances
-  - Houshold Income
+  - Houshold income
   - Barriers (language, resources etc.)
 
 
